@@ -1,1 +1,1 @@
-# psychodelic-yt
+# Psychodelic Youtube player
